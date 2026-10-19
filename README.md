@@ -1,10 +1,10 @@
 <!-- ====================== BANNER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF6A00,100:FF4500&height=220&section=header&text=Oscar%20MC&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Estudiante%20DAW%20%7C%20Full%20Stack%20Developer&descAlignY=62&descAlign=50&animation=fadeIn" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:60A5FA&height=220&section=header&text=Oscar%20MC&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Estudiante%20DAW%20%7C%20Full%20Stack%20Developer&descAlignY=62&descAlign=50&animation=fadeIn" alt="Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1300&color=FF8C00&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n;HTML+%2B+CSS+%2B+JavaScript+%2B+PHP;Docker+%7C+MySQL+%7C+WSL2;Entusiasta+de+la+IA+Local;Aprendiendo+cada+d%C3%ADa" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1300&color=2563EB&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n;HTML+%2B+CSS+%2B+JavaScript+%2B+PHP;Docker+%7C+MySQL+%7C+WSL2;Entusiasta+de+la+IA+Local;Aprendiendo+cada+d%C3%ADa" alt="Typing SVG"/>
 </p>
 
 ---
