@@ -1,32 +1,32 @@
 <!-- ====================== BANNER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF6A00,100:FF4500&height=220&section=header&text=Oscar%20MC&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=DAW%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=62&descAlign=50&animation=fadeIn" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF6A00,100:FF4500&height=220&section=header&text=Oscar%20MC&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Estudiante%20DAW%20%7C%20Full%20Stack%20Developer&descAlignY=62&descAlign=50&animation=fadeIn" alt="Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1300&color=FF8C00&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+training;HTML+%2B+CSS+%2B+JavaScript+%2B+PHP;Docker+%7C+MySQL+%7C+WSL2;Local+AI+Explorer;Always+learning" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1300&color=FF8C00&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n;HTML+%2B+CSS+%2B+JavaScript+%2B+PHP;Docker+%7C+MySQL+%7C+WSL2;Entusiasta+de+la+IA+Local;Aprendiendo+cada+d%C3%ADa" alt="Typing SVG"/>
 </p>
 
 ---
 
-**👨‍💻 Web Application Development Student** at **I.E.S. Politécnico Hermenegildo Lanz**  
-**🚀 Aspiring Full Stack Developer** focused on clean code and robust web solutions  
-**🐳 Infrastructure & DevOps Enthusiast** (Docker, Git, Linux / WSL2)  
-**🤖 Explorer** of local artificial intelligence tools and open-source tech
+**👨‍💻 Estudiante de Desarrollo de Aplicaciones Web** en el **I.E.S. Politécnico Hermenegildo Lanz**  
+**🚀 Aspirante a Desarrollador Full Stack** enfocado en código limpio y soluciones web robustas  
+**🐳 Entusiasta de la Infraestructura y DevOps** (Docker, Git, Linux / WSL2)  
+**🤖 Explorador** de herramientas de inteligencia artificial local y tecnología de código abierto
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-I am a second-year **DAW** student combining backend logic, database management, and modern frontend design to build functional and scalable web applications. 
+Soy un estudiante de segundo año de **DAW**, combinando lógica de backend, gestión de bases de datos y diseño frontend moderno para construir aplicaciones web funcionales y escalables. 
 
-My goal is to keep growing as a software developer, creating efficient solutions and exploring modern tools like containerization and local AI environments.
+Mi objetivo es seguir creciendo como desarrollador de software, creando soluciones eficientes y explorando herramientas modernas como la contenedorización y entornos de IA locales.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías
 
-### Languages & Core
+### Lenguajes y Base
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,11 +34,11 @@ My goal is to keep growing as a software developer, creating efficient solutions
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Databases & Backend
+### Bases de Datos y Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### Tools & Infrastructure
+### Herramientas e Infraestructura
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -47,38 +47,38 @@ My goal is to keep growing as a software developer, creating efficient solutions
 
 ---
 
-## 🔭 Currently Working On
-- Developing full-stack web applications using **PHP, JavaScript, and MySQL**
-- Setting up multi-container development environments with **Docker & Docker Compose**
-- Experimenting with local language models using **Ollama** and **WSL2**
-- Building user interfaces and component layouts in **Figma**
+## 🔭 Actualmente trabajando en
+- Desarrollo de aplicaciones web full-stack utilizando **PHP, JavaScript y MySQL**
+- Configuración de entornos de desarrollo multi-contenedor con **Docker y Docker Compose**
+- Experimentación con modelos de lenguaje locales usando **Ollama** y **WSL2**
+- Creación de interfaces de usuario y maquetación de componentes en **Figma**
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Proyectos Destacados
 
-- 🌐 **[Personal Blog Application](https://github.com/TU_USUARIO)** — Dynamic web application featuring user authentication, article management, and comment systems built with PHP and MySQL.
-- 🐳 **[Docker Lab Environments](https://github.com/TU_USUARIO)** — Custom multi-container setups integrating Nginx, Apache, PHP, and MariaDB for academic projects.
-- 🎨 **[Figma UI Layouts](https://github.com/TU_USUARIO)** — Prototyping and interface design projects utilizing layout grids and interactive components.
+- 🌐 **[Aplicación de Blog Personal](https://github.com/TU_USUARIO)** — Aplicación web dinámica con autenticación de usuarios, gestión de artículos y sistemas de comentarios construida con PHP y MySQL.
+- 🐳 **[Entornos de Pruebas Docker](https://github.com/TU_USUARIO)** — Configuraciones personalizadas multi-contenedor integrando Nginx, Apache, PHP y MariaDB para proyectos académicos.
+- 🎨 **[Diseños UI en Figma](https://github.com/TU_USUARIO)** — Proyectos de prototipado y diseño de interfaces utilizando rejillas de diseño y componentes interactivos.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estadísticas de GitHub
 
 <a href="https://github.com/TU_USUARIO">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub">
 </a>
 <a href="https://github.com/TU_USUARIO">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide=c%2B%2B&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide=c%2B%2B&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
 </a>
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Conectemos
 
 <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:tu-correo@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
 </a>
