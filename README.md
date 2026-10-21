@@ -58,21 +58,21 @@ Actualmente me encuentro cursando el último año de mi ciclo formativo y **busc
 
 ## ⭐ Proyectos Destacados
 
-- 🌐 **[Aplicación de Blog Personal](https://github.com/TU_USUARIO)** — Aplicación web dinámica con autenticación de usuarios, gestión de artículos y sistemas de comentarios construida con PHP y MySQL.
+- 🌐 **[Desarrollo Web en Entorno Cliente (DWEC)](https://github.com/oscxxrrr/CURSO-DWEC-20262_027)** — Prácticas y proyectos enfocados en la programación moderna del lado del cliente utilizando TypeScript y JavaScript.
 
-- 🐳 **[Entornos de Pruebas Docker](https://github.com/TU_USUARIO)** — Configuraciones personalizadas multi-contenedor integrando Nginx, Apache, PHP y MariaDB para proyectos académicos.
+- ⚙️ **[Desarrollo Web en Entorno Servidor (DWES)](https://github.com/oscxxrrr/DWES)** — Aplicaciones web dinámicas de servidor, lógica backend y gestión de bases de datos relacionales.
 
-- 🎨 **[Diseños UI en Figma](https://github.com/TU_USUARIO)** — Proyectos de prototipado y diseño de interfaces aplicando metodologías orientadas a experiencia de usuario.
+- 💻 **[Práctica de Programación en C](https://github.com/oscxxrrr/PRACTICA-Programacion-C)** — Resolución de problemas algorítmicos y desarrollo de software estructurado en lenguaje C.
 
 ---
 
 ## 📈 Estadísticas de GitHub
 
-<a href="https://github.com/TU_USUARIO">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub">
+<a href="https://github.com/oscxxrrr">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=oscxxrrr&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub">
 </a>
-<a href="https://github.com/TU_USUARIO">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide=c%2B%2B&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
+<a href="https://github.com/oscxxrrr">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oscxxrrr&layout=compact&hide=c%2B%2B&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
 </a>
 
 ---
