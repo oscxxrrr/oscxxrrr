@@ -1,10 +1,10 @@
 <!-- ====================== BANNER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=220&section=header&text=Oscar%20MC&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Estudiante%20DAW%20%7C%20Buscando%20Pr%C3%A1cticas%20(FCT)&descAlignY=62&descAlign=50&animation=fadeIn" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1E40AF&height=220&section=header&text=Oscar%20MC&fontSize=55&fontColor=38BDF8&fontAlignY=40&desc=Estudiante%20DAW%20%7C%20Buscando%20Pr%C3%A1cticas%20(FCT)&descAlignY=62&descAlign=50&animation=fadeIn" alt="Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1300&color=2563EB&center=true&vCenter=true&width=650&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web;Buscando+oportunidad+de+pr%C3%A1cticas+(FCT);HTML+%2B+CSS+%2B+TypeScript+%2B+Java;Docker+%7C+MySQL+%7C+WordPress+%7C+Git;Trabajo+en+equipo+e+inter%C3%A9s+por+aprender" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1300&color=38BDF8&center=true&vCenter=true&width=650&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web;Buscando+oportunidad+de+pr%C3%A1cticas+(FCT);HTML+%2B+CSS+%2B+TypeScript+%2B+Java;Docker+%7C+MySQL+%7C+WordPress+%7C+Git;Trabajo+en+equipo+e+inter%C3%A9s+por+aprender" alt="Typing SVG"/>
 </p>
 
 ---
