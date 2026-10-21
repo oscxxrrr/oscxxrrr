@@ -66,14 +66,13 @@ Actualmente me encuentro cursando el último año de mi ciclo formativo y **busc
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Lenguajes más usados
 
-<a href="https://github.com/oscxxrrr">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=oscxxrrr&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub">
-</a>
-<a href="https://github.com/oscxxrrr">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oscxxrrr&layout=compact&hide=c%2B%2B&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
-</a>
+<p align="center">
+  <a href="https://github.com/oscxxrrr">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oscxxrrr&layout=normal&hide=c%2B%2B&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados">
+  </a>
+</p>
 
 ---
 
@@ -82,4 +81,6 @@ Actualmente me encuentro cursando el último año de mi ciclo formativo y **busc
 <a href="https://www.linkedin.com/in/oscar-mart%C3%ADnez-cabrera-191794385/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:martinez8cabrera200
+<a href="mailto:martinez8cabrera2007@gmail.com">
+  <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
+</a>
