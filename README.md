@@ -79,9 +79,9 @@ Actualmente me encuentro cursando el último año de mi ciclo formativo y **busc
 
 ## 🌐 Conectemos
 
-<a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+<a href="https://www.linkedin.com/in/oscar-mart%C3%ADnez-cabrera-191794385/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:tu-correo@example.com">
+<a href="mailto:martinez8cabrera2007@gmail.com">
   <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
 </a>
