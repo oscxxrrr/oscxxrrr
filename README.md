@@ -62,6 +62,8 @@ Actualmente me encuentro cursando el último año de mi ciclo formativo y **busc
 
 - ⚙️ **[Desarrollo Web en Entorno Servidor (DWES)](https://github.com/oscxxrrr/DWES)** — Aplicaciones web dinámicas de servidor, lógica backend y gestión de bases de datos relacionales.
 
+- ☕ **[Programación en Java](https://github.com/oscxxrrr/ProgramacionJava)** — Ejercicios, fundamentos y prácticas de programación orientada a objetos en Java desarrollados durante el ciclo formativo.
+
 - 💻 **[Práctica de Programación en C](https://github.com/oscxxrrr/PRACTICA-Programacion-C)** — Resolución de problemas algorítmicos y desarrollo de software estructurado en lenguaje C.
 
 ---
